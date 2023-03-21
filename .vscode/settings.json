@@ -1,0 +1,12 @@
+{
+  "editor.fontSize": 19,
+  "breadcrumbs.enabled": false,
+  "workbench.list.smoothScrolling": true,
+  "editor.smoothScrolling": true,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "html.format.indentInnerHtml": true,
+  "editor.wordWrap": "on",
+  "diffEditor.wordWrap": "inherit",
+  "editor.wordWrapColumn": 85
+}
