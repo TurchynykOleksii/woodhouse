@@ -6,7 +6,14 @@
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
   "html.format.indentInnerHtml": true,
-  "editor.wordWrap": "on",
-  "diffEditor.wordWrap": "inherit",
-  "editor.wordWrapColumn": 85
+  "editor.wordWrap": "wordWrapColumn",
+  "diffEditor.wordWrap": "on",
+  "editor.wordWrapColumn": 85,
+  "editor.defaultFormatter": "vscode.html-language-features",
+  "[scss]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
 }

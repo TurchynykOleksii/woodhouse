@@ -43,6 +43,8 @@ gulp.task('styles', function () {
 gulp.task('scripts', function () {
 	return gulp.src([
 		'app/libs/jquery/dist/jquery.min.js',
+		'node_modules/swiper/swiper-bundle.min.js',
+		'node_modules/swiper/swiper-element-bundle.min.js',
 		'app/js/common.js', // Always at the end
 	])
 		.pipe(concat('scripts.min.js'))
