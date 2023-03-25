@@ -58,7 +58,7 @@
 
 /*  Usage
 .block {
-    @include mq(mobile) {
+    @include mq(tablet) {
         margin-bottom: 16px;
     };
   }

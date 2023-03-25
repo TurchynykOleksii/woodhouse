@@ -25,6 +25,7 @@
 		"sass": "^1.55.0"
 	},
 	"dependencies": {
+		"gsap": "^3.11.5",
 		"swiper": "^9.1.1"
 	}
 }
